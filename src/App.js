@@ -1,4 +1,4 @@
-import HomePage from './homepage/Homepage.component'
+import HomePage from "./pages/homepage/Homepage.component";
 function App() {
   return (
     <div className="">
